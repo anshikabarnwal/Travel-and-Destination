@@ -1,0 +1,45 @@
+.abc{
+    box-shadow: 5px 5px 5px 5px rebeccapurple;
+}
+.abc:hover{
+    box-shadow: 5px 5px 5px 5px black;
+}
+.abc{background-color: 5px 5px 5px 5px aqua;}
+body{
+ background-color: whitesmoke;   
+}
+.p{
+    background-color: aquamarine;
+}
+.services {
+    text-align: center;
+}
+
+
+.a h1{text-align: center;
+     margin: 30px 30px 30px 30px;
+    
+     
+}
+.aa{margin: 50px 50px 50px 50px;}
+.f{
+    text-align: center;
+}
+.travel h1{
+text-align: center;
+}
+.contact h2{
+text-align: center;
+margin: 20px 20px 20px 20px;
+
+}
+.info p{
+    text-align: center;
+    margin: 30px 30px 30px 30px;
+}
+.service h2{
+    text-align: center;
+}
+.service h4{
+    text-align: center;
+}
